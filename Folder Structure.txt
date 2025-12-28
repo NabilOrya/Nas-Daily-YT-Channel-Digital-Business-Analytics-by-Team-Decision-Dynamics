@@ -1,0 +1,19 @@
+nas_daily_analysis/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│
+├── notebooks/
+│   ├── 01_data_collection.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_exploratory_analysis.ipynb
+│   ├── 04_business_metrics.ipynb
+│
+├── src/
+│   ├── api_client.py
+│   ├── metrics.py
+│   ├── visualization.py
+│
+└── report/
+    └── insights.md
